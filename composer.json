@@ -1,0 +1,16 @@
+{
+    "name": "vini/myframework",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src",
+            "public\\": "public"
+        }
+    },
+    "authors": [
+        {
+            "name": "vini",
+            "email": "viniciusdnb@hotmail.com"
+        }
+    ],
+    "require": {}
+}
