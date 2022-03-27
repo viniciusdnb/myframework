@@ -1,10 +1,10 @@
 {
 	"DB":{
-		"dbUser":"",
-		"dbHost":"",
+		"dbUser":"root",
+		"dbHost":"localhost",
 		"dbPass":"",
-		"dbDriver":"",
-		"dbName":""
+		"dbDriver":"mysql",
+		"dbName":"test"
 	},
 	"APPHOST":{
 		"appHost":"localhost/myframework",
